@@ -26,7 +26,7 @@ export const svgs: iSVG[] = [
   },
   {
     title: 'Discord',
-    category: 'Software',
+    category: ['Software', 'Social'],
     route: '/library/discord.svg',
     url: 'https://discord.com/'
   },
